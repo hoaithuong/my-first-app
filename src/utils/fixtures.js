@@ -1,0 +1,9 @@
+export const projectId = "fuyy58glyoi8xm90rg0h5rcywzv7iu0t";
+export const avgAmount = "aoJqpe5Ib4mO";
+export const avgWon = "agEEuYDOefRs";
+export const productName = "label.product.id.name";
+export const dateClosed = "closed.dataset.dt";
+export const Department = "label.owner.department";
+export const DepartmentDirectSales = `/gdc/md/${projectId}/obj/1026/elements?id=1226`;
+export const VisualizationColunmchart11Feb = "aagj8loYdqCx";
+export const VisualizationCombochart11Feb = "aagj41G8igW0";
